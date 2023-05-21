@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Comentarios en David Benavides	</title>
-	<atom:link href="http://localhost/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="./comments/feed/" rel="self" type="application/rss+xml" />
 	<link>http://localhost/wordpress</link>
 	<description></description>
 	<lastBuildDate>Wed, 17 May 2023 02:33:37 +0000</lastBuildDate>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		Comentario en ¡Hola, mundo! por Un comentarista de WordPress		</title>
-		<link>http://localhost/wordpress/2023/05/17/hola-mundo/#comment-1</link>
+		<link>./2023/05/17/hola-mundo/#comment-1</link>
 
 		<dc:creator><![CDATA[Un comentarista de WordPress]]></dc:creator>
 		<pubDate>Wed, 17 May 2023 02:33:37 +0000</pubDate>
